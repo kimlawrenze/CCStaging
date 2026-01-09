@@ -1,2 +1,0 @@
-# CCStaging
-Testing Environment
